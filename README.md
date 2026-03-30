@@ -1,4 +1,5 @@
-## Hi there 👋
+## GitHub Profile
+Меня зовут **Вадим Видеев** я занимаюсь тестированием приложений
 ### Мой стек технологий
 ![MySQL](https://img.shields.io/badge/-MySQL-333?style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
