@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+### Мой стек технологий
+![MySQL](https://img.shields.io/badge/-MySQL-333?style=for-the-badge)
 <!--
 **VadimVideev/VadimVideev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
